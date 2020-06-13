@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://blog.spacenarratives.com',
   pathPrefix: '/',
   title: 'Blog by Ashwini Munji',
-  subtitle: 'Hello world',
+  subtitle: 'Hello World',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,

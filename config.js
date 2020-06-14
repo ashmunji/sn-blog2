@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://blog.spacenarratives.com',
   pathPrefix: '/',
-  title: 'Space Narrative Blog,
+  title: 'Space Narrative Blog'
   subtitle: 'Hello World',
   copyright: '© All rights reserved.',
   disqusShortname: '',

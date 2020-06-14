@@ -37,7 +37,7 @@ module.exports = {
       youtube: '',
       instagram: 'spacenarrativestudio',
       rss: '',
-      behance.net: '',
+      behance: '',
       dribbble: '',
       vkontakte: '',
       linkedin: '',

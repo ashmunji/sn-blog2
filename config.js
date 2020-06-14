@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Ashwini Munji',
+    name: 'Space Narrative',
     photo: '/photo.jpg',
     bio: 'Hello world',
     contacts: {

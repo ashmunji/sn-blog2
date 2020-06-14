@@ -30,19 +30,16 @@ module.exports = {
     bio: 'Hello world',
     contacts: {
       email: 'hello@spacenarratives.com',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/AshwiniMunji',
+      youtube: '',
+      linkedin: '',
+      instagram: 'https://www.instagram.com/spacenarrativestudio/',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
       soundcloud: '',
     }
   }

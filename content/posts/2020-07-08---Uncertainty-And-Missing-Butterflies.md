@@ -1,5 +1,5 @@
 ---
-title: Uncertainty and Missing Butterflies
+title: Uncertainty & Missing Butterflies
 date: "2020-08-07T23:46:37.121Z"
 template: "post"
 draft: false

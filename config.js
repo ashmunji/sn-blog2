@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://blog.spacenarratives.com',
   pathPrefix: '/',
   title: 'Space Narrative Blog',
-  subtitle: 'Hello World',
+  subtitle: 'Our mission is to share and celebrate design stories.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -29,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Hello world',
     contacts: {
-      email: 'hello@spacenarratives.com',
+      email: 'hello@spacenarrative.com',
       facebook: '',
       telegram: '',
       github: '',

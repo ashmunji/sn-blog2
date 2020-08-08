@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Space Narrative',
     photo: '/photo.jpg',
-    bio: 'Hello world',
+    bio: 'Our mission is to share and celebrate design stories.',
     contacts: {
       email: 'hello@spacenarrative.com',
       facebook: '',

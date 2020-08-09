@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Home"
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---

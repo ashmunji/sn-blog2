@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'Home',
-      path: 'https://www.spacenarrative.com/'
+      path: '/pages/home'
     }
   ],
   author: {

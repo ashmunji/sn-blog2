@@ -6,9 +6,9 @@ module.exports = {
   title: 'Space Narrative Blog',
   subtitle: 'Our mission is to share and celebrate design stories.',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'spacenarrative',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-174978404-1',
   useKatex: false,
   menu: [
     {

@@ -4,7 +4,7 @@ date: "2020-04-27"
 template: "post"
 draft: false
 slug: "DIY_Accent_Wall"
-category: "Interior Decoration"
+category: "Interior Decor"
 tags:
   - "DIY Interiors"
   - "Interior Design"
@@ -23,6 +23,8 @@ How are you guys doing? Trying to keep yourselves occupied during the lockdown? 
 Don't we all love coming home to a beautiful space? Some say how we decorate our home is a reflection of our personality. Whether you're a believer in this saying or not, whether you like clean, minimalistic spaces, bright or bold spaces, we all have a preference. <del>Well, mostly.</del>
 
 I like spaces that look classy but with a hint of quirk. When it comes to Living Rooms, I like them to be peppy and functional. I'm one of those people who loves to host and Game Nights is a weekly ritual in the 'D' household. 
+
+![](/media/Hero.jpg)
 
 I live in a rental in California and like most renters, I care about getting my entire safety deposit back most when it is time to move. Since painting walls is not allowed and/or is a hassle in rentals, here's a quick DIY that will instantly brighten the vibe of your apartment and make it look like your dream home! 
 
